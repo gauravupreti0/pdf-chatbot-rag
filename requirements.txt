@@ -1,0 +1,14 @@
+# requirements.txt
+
+langchain
+langchain-community
+openai
+faiss-cpu
+openai
+OpenAIEmbeddings
+PyPDF2
+python-dotenv
+sentence-transformers
+streamlit
+tqdm
+termcolor
